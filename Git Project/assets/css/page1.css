@@ -1,0 +1,47 @@
+body {
+  background-color: #f3f3e0;
+}
+.LoginBox {
+  margin-left: auto;
+  margin-right: auto;
+  color: #133e87;
+  width: 40rem;
+  height: 40rem;
+  background-color: #608bc1;
+  border-radius: 70px;
+}
+.header {
+  padding-top: 5rem;
+  text-align: center;
+}
+.input {
+  color: #4b4376;
+  font-size: 1.5rem;
+  margin-top: 10rem;
+  margin-left: 20rem;
+}
+
+.user {
+  width: 200px;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff5d7;
+}
+.pass {
+  width: 200px;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff5d7;
+}
+.button{
+  background-color: #14274E;
+  color: #9BA4B4;
+  width: 10rem;
+  height: 2rem;
+  margin-left: 15rem;
+  margin-top: 5rem;
+  border-radius: 4rem;
+  border-color:#14274E;
+}

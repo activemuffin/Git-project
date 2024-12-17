@@ -1,0 +1,140 @@
+body {
+  background-color: #b5cfb7;
+}
+.NAV {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+.NAV > .navbar1 {
+  margin-right: 15px;
+  color: rgba(0, 0, 0, 0.751);
+  text-decoration: none; /*internet search-از بین بردن خط زیر لینک */
+}
+.NAV > .navbar5 {
+  color: rgba(0, 0, 0, 0.751);
+  text-decoration: none; /*internet search-از بین بردن خط زیر لینک */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.NAV > .navbar6 {
+  color: rgba(0, 0, 0, 0.751);
+  text-decoration: none; /*internet search-از بین بردن خط زیر لینک */
+  margin-left: 10px;
+  margin-right: 70rem;
+}
+
+.box {
+  margin-top: 2rem;
+  border-radius: 15px;
+  margin-left: 10px;
+  width: 90rem;
+  height: 100rem;
+  background-color: #e7e8d8;
+}
+.image {
+  border-radius: 30px;
+  margin-top: 2rem;
+  margin-left: 14rem;
+  width: 60rem;
+  height: 30rem;
+}
+.box2 {
+  display: inline-block;
+  border-radius: 3rem;
+  width: 15rem;
+  height: 12rem;
+  background-color: #cadabf;
+  margin-top: 3rem;
+  margin-left: 15rem;
+}
+.box3 {
+  display: inline-block;
+  border-radius: 3rem;
+  width: 15rem;
+  height: 12rem;
+  background-color: #cadabf;
+  margin-top: 3rem;
+  margin-left: 6rem;
+}
+.box4 {
+  display: inline-block;
+  border-radius: 3rem;
+  width: 15rem;
+  height: 12rem;
+  background-color: #cadabf;
+  margin-top: 3rem;
+  margin-left: 6rem;
+}
+.listitem {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+.table {
+  margin-top: 5rem;
+  border-collapse: collapse;
+  display: table; /*internet search*/
+  margin-left: auto; /*internet search*/
+  margin-right: auto; /*internet search*/
+}
+
+td,
+th {
+  border: 1px solid #8eb486;
+  width: 200px;
+  height: 100px;
+}
+.tablerow {
+  text-align: center; /*internet search*/
+  background-color: #b5cfb7;
+}
+.margin {
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+}
+col {
+  background-color: #b5cfb7;
+}
+.caption {
+  font-size: 1.5rem;
+}
+.footer {
+  color: #f5f0cd;
+  padding-right: 1rem;
+  direction: rtl;
+  font-size: 1.3rem;
+  border-radius: 20px;
+  margin-top: 10rem;
+  display: inline-block;
+  width: 85rem;
+  height: 10rem;
+  margin-left: 2.5rem;
+  background-color: #355f2e;
+}
+.mark {
+  background-color: #f5f0cd;
+}
+
+.checkbox {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.h6 {
+  font-size: 1.5rem;
+}
+.return{
+  margin-top: 5rem;
+  margin-left: 29rem;
+  display:inline-block;
+  width: 30rem;
+  height: 2rem;
+  font-size: 1.5rem;
+  background-color: #355f2e;
+  border-radius: 2rem;
+  border: none;
+}
+.return>a{
+  text-decoration: none;
+  color: #8eb486;
+}
